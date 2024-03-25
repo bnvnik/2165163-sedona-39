@@ -512,6 +512,7 @@ body {
   background-color: #756157;
   border-radius: 4px;
 
+  cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
 }
 
